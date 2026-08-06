@@ -1,9 +1,28 @@
 # Hi there 👋, I'm Ayoub CHAKIRI
 
-<!-- 🚀 TOP BANNER ANIMATED -->
-<!-- 🚀 ULTRA-PROFESSIONAL CYBER-HEADER -->
+
+<!-- 💻 TERMINAL & GLOW THEME HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=bg:0d1117,0:00F2FE,100:4FACFE&height=220&section=header&text=AYOUB%20CHAKIRI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20NETWORK%20ENGINEER&descSize=15&descAlignY=62&descAlign=50&animation=twinkle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Ayoub_Chakiri&fontSize=55&fontColor=61DAFB&animation=scaleIn" alt="Name" />
+
+  <a href="https://github.com/ayoubchakiri">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=2000&color=00FF41&background=0D1117&center=false&vCenter=true&width=750&height=120&lines=%E2%9D%AF_root%40ayoub%3A~%24+whoami;%E2%9D%AF+Full-Stack+Engineer+%7C+Systems+%26+Network+Administrator;%E2%9D%AF_root%40ayoub%3A~%24+./initialize_skills.sh;%E2%9D%AF+%5B%E2%9C%93%5D+React%2C+Laravel%2C+Node.js%2C+Docker%2C+pfSense+loaded!;" alt="Terminal Animation" />
+  </a>
+
+  <br/><br/>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:ayoubchakiri105@gmail.com">
+      <img src="https://img.shields.io/badge/ayoubchakiri105@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+</div>
+
+---0DEVELOPER%20%7C%20NETWORK%20ENGINEER&descSize=15&descAlignY=62&descAlign=50&animation=twinkle" width="100%" />
 
   <br/>
 
