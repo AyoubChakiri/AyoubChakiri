@@ -1,36 +1,11 @@
 # Hi there 👋, I'm Ayoub CHAKIRI
 
 
-<!-- 💻 TERMINAL & GLOW THEME HEADER -->
+<!-- 🚀 DUAL-CONCEPT ULTRA HEADER (REACT + TERMINAL) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Ayoub_Chakiri&fontSize=55&fontColor=61DAFB&animation=scaleIn" alt="Name" />
-
-  <a href="https://github.com/ayoubchakiri">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=2000&color=00FF41&background=0D1117&center=false&vCenter=true&width=750&height=120&lines=%E2%9D%AF_root%40ayoub%3A~%24+whoami;%E2%9D%AF+Full-Stack+Engineer+%7C+Systems+%26+Network+Administrator;%E2%9D%AF_root%40ayoub%3A~%24+./initialize_skills.sh;%E2%9D%AF+%5B%E2%9C%93%5D+React%2C+Laravel%2C+Node.js%2C+Docker%2C+pfSense+loaded!;" alt="Terminal Animation" />
-  </a>
-
-  <br/><br/>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:ayoubchakiri105@gmail.com">
-      <img src="https://img.shields.io/badge/ayoubchakiri105@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
-</div>
-
----0DEVELOPER%20%7C%20NETWORK%20ENGINEER&descSize=15&descAlignY=62&descAlign=50&animation=twinkle" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:61DAFB,65:00FF41,100:0D1117&height=220&section=header&text=AYOUB%20CHAKIRI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20BUILDING%20FULL-STACK%20APPS%20%7C%20%F0%9F%94%92%20SECURING%20NETWORKS&descSize=15&descAlignY=62&animation=twinkle" width="100%" />
 
   <br/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Building+Modern+Full-Stack+Web+Apps+(React+%2B+Laravel);%F0%9F%94%92+Securing+Network+Infrastructures+(pfSense+%2B+Cisco);%F0%9F%93%A6+Dockerizing+%26+Deploying+Scalable+Solutions" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
 
   <p align="center">
     <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
@@ -39,9 +14,28 @@
     <a href="mailto:ayoubchakiri105@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00F2FE" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 </div>
+
+<br/>
+
+### ⚛️ Full-Stack Development Mode
+```jsx
+// DeveloperProfile.jsx - React Component
+import React from 'react';
+
+export const FullStackDeveloper = () => {
+  const techStack = {
+    frontend: ['React.js', 'Redux Toolkit', 'Tailwind CSS', 'JavaScript (ES6+)'],
+    backend:  ['Node.js', 'Express.js', 'PHP', 'Laravel', 'RESTful APIs'],
+    database: ['MongoDB', 'MySQL']
+  };
+
+  return (
+    <SoftwareEngineer name="Ayoub CHAKIRI" stack="{techStack}" status="Coding Modern Web Apps 🚀"/>
+  );
+};
 
 ---
 
