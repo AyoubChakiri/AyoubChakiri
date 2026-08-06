@@ -1,5 +1,16 @@
 # Hi there 👋, I'm Ayoub CHAKIRI
 
+<!-- 🚀 TOP BANNER ANIMATED -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Ayoub%20CHAKIRI&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Systems+%26+Network+Administrator;React+%7C+Laravel+%7C+Node.js+%7C+pfSense" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 ### 👨‍💻 Full-Stack Developer & Systems/Network Administrator
 
 Dual-skilled Tech Professional with expertise in developing modern full-stack web applications and designing secure network infrastructures.
