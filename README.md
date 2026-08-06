@@ -7,7 +7,7 @@ Dual-skilled Tech Professional with expertise in developing modern full-stack we
 - 🎓 **Diplomas**: Specialized Technician in Full-Stack Web Development | Systems & Networks
 - 💼 **Looking for**: Full-Stack / Software Engineering / Network & Systems Roles
 - 📧 **Email**: ayoubchakiri105@gmail.com
-- 🔗 **LinkedIn**: [Ayoub CHAKIRI](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- 🔗 **LinkedIn**: [Ayoub CHAKIRI](www.linkedin.com/in/ayoub-chakiri)
 
 ---
 
