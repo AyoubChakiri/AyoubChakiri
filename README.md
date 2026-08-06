@@ -21,7 +21,6 @@
 <br/>
 
 ### ⚛️ Full-Stack Development Mode
-```jsx
 // DeveloperProfile.jsx - React Component
 import React from 'react';
 
